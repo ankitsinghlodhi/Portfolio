@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
-    title: "StudyJS - EdTech Platform",
+    title: "Edunook - EdTech Platform",
     description:
       "A MERN-stack E-learning platform with JWT authentication, role-based dashboards, Cloudinary media upload and Razorpay payment integration.",
     tech: ["MongoDB", "Express", "React", "Node", "Tailwind", "JWT", "Razorpay"],
